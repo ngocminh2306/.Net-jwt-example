@@ -7,4 +7,12 @@ a jwt example
 
 **Acess data requed token**: *http://localhost:61419/weatherforecast/getString*
 
- ![Lấy token](/Image/b1.PNG?raw=true)
+**Get token**
+
+ ![Lấy token](https://github.com/ngocminh2306/.Net-jwt-example/blob/master/blob/master/Image/b1.PNG)
+ 
+ **Add token to header**
+ ![Lấy token](https://github.com/ngocminh2306/.Net-jwt-example/blob/master/blob/master/Image/b2.PNG)
+ 
+ **If token valid will show Authorize suscess!**
+ ![Lấy token](https://github.com/ngocminh2306/.Net-jwt-example/blob/master/blob/master/Image/b3.PNG)

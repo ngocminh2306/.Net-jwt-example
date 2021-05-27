@@ -16,3 +16,5 @@ a jwt example
  
  **If token valid will show Authorize suscess!**
  ![Lấy token](https://github.com/ngocminh2306/.Net-jwt-example/blob/master/blob/master/Image/b3.PNG)
+ 
+ ##How i do that

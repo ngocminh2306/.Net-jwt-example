@@ -7,4 +7,4 @@ a jwt example
 
 **Acess data requed token**: *http://localhost:61419/weatherforecast/getString*
 
- ![Lấy token](https://github.com/ngocminh2306/.Net-jwt-example/blob/master/Image/b1.PNG)
+ ![Lấy token](/Image/b1.PNG?raw=true)
